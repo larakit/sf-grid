@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-grid",
+    "description": "sf-grid",
+    "license": "MIT",
+    "version": "2.2.3",
+    "require":{
+        "larakit/lk-staticfiles":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
